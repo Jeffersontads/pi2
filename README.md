@@ -1,1 +1,1 @@
-#Projeto criado para o trabalho da matérioa Projeto Integrador 2
+#Projeto criado para o trabalho da matéria Projeto Integrador 2
